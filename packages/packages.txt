@@ -1,0 +1,9 @@
+festival-2.5.0-release.tar.gz
+festlex_CMU.tar.gz
+festlex_OALD.tar.gz
+festlex_POSLEX.tar.gz
+festvox_cmu_indic_hin_ab_cg.tar.gz
+festvox_cmu_us_slt_cg.tar.gz
+festvox_kallpc16k.tar.gz
+packages.txt
+speech_tools-2.5.0-release.tar.gz
