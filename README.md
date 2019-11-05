@@ -60,3 +60,25 @@ add (set! voice_default 'voice_cmu_indic_hin_ab_cg)
 ## text2wave command
 
  festival/bin/text2wave sample.txt -o sample.wav
+ 
+
+## Python setup
+
+### pre-requisite
+python 3.5+ <br />
+sudo apt-get install python3-pip <br />
+sudo apt-get install python3-venv <br />
+sudo apt-get install libsndfile1 <br />
+
+### create virtual environment
+
+python3 -m venv .env
+
+### activate environment
+
+source .env/bin/activate
+
+### install python dependencies
+
+pip3 install -r requirements.txt
+
