@@ -1,4 +1,4 @@
-# TTS
+# Setup TTS
 
 Setting up festvox TTS
 
